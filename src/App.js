@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Link from "./Link";
+// import Link from "./Link";
 
 function App() {
   return (
@@ -16,9 +16,6 @@ function App() {
         >
           Learn React
         </a>
-
-        <Link page="https://www.facebook.com/">Facebook</Link>
-        <Link page="https://www.instagram.com/">Instagram</Link>
       </header>
     </div>
   );
